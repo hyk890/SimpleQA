@@ -1,0 +1,41 @@
+V "GNAT Lib v3.4"
+A -g
+A -gnatp
+A -gnatg
+A -O2
+A -W
+A -Wall
+P
+R nnvnnnnnnnnnnnnnnnvvnnnnvnnnnnnnnnnnnvnnnnnnnnnnvnnnvvnn
+
+U system.tasking.restricted%s  s-tasres.ads	6be93f90 NE PK
+W system%s		system.ads		system.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+
+D ada.ads		20060118063316 a0108083
+D a-except.ads		20060118063328 a1717b33
+D interfac.ads		20060118063318 6e859da6
+D i-c.ads		20060118063342 89099b00
+D i-cstrin.ads		20060118063344 924095a4
+D system.ads		20060118063414 99654be1
+D s-exctab.ads		20060118063358 6637f07f
+D s-osinte.ads		20060118063414 ee920a8b
+D s-parame.ads		20060118063404 8479efe6
+D s-soflin.ads		20060118063404 14059e84
+D s-stache.ads		20060118063404 6135f334
+D s-stalib.ads		20060118063404 e7ad2af0
+D s-stoele.ads		20060118063404 5a73170b
+D s-stoele.adb		20060118063354 792079f8
+D s-tasinf.ads		20060118063406 c9aa44b6
+D s-taspri.ads		20060118063414 f012c1e7
+D s-taskin.ads		20060118063406 5af97c3f
+D s-tasres.ads		20060118063406 311043af
+D s-traent.ads		20060118063406 e81a0978
+D unchconv.ads		20060118063318 1b7a14c5
+X 6 system.ads
+39K9*System 208e11 18|36r9 37r5
+X 17 s-taskin.ads
+56K16*Tasking 6|39k9 17|977e19 18|36r16 37r12
+X 18 s-tasres.ads
+36K24*Restricted 17|56k16 18|37l20 37e30
+

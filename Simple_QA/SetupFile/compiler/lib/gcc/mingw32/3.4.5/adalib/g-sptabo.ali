@@ -1,0 +1,97 @@
+V "GNAT Lib v3.4"
+A -g
+A -gnatp
+A -gnatg
+A -O2
+A -W
+A -Wall
+P SS
+R nnvvnnnvvnnvnnvnvnvvnvnnvnvnvnnnnnnvnvnnnnnnnvnnvnnnvvnv
+
+U gnat.spitbol.table_boolean%b  g-sptabo.ads	4a118576 NE PR PK
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.streams%s		a-stream.ads		a-stream.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.spitbol%s	g-spitbo.adb		g-spitbo.ali
+W system%s		system.ads		system.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.img_bool%s	s-imgboo.adb		s-imgboo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.storage_elements%s  s-stoele.adb	s-stoele.ali
+W system.stream_attributes%s  s-stratt.adb	s-stratt.ali
+W system.string_ops%s	s-strops.adb		s-strops.ali
+W system.string_ops_concat_5%s  s-sopco5.adb	s-sopco5.ali
+
+U gnat.spitbol.table_boolean%s  g-sptabo.ads	5aa14ffb EB EE PR PK
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.streams%s		a-stream.ads		a-stream.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W gnat%s		gnat.ads		gnat.ali
+W gnat.spitbol%s	g-spitbo.adb		g-spitbo.ali
+W system%s		system.ads		system.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.img_bool%s	s-imgboo.adb		s-imgboo.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.storage_elements%s  s-stoele.adb	s-stoele.ali
+W system.stream_attributes%s  s-stratt.adb	s-stratt.ali
+
+D ada.ads		20060118063316 a0108083
+D a-charac.ads		20060118063326 a61fb5a9
+D a-chlat1.ads		20060118063326 06a18501
+D a-except.ads		20060118063328 a1717b33
+D a-finali.ads		20060118063328 d4be2e87
+D a-stream.ads		20060118063330 dbe6acb4
+D a-string.ads		20060118063330 6440c304
+D a-strmap.ads		20060118063330 e6fc9a3a
+D a-strunb.ads		20060118063330 6f145aec
+D a-stunau.ads		20060118063332 c2b55e44
+D a-tags.ads		20060118063332 8f0cfa9c
+D a-tags.adb		20060118063324 547ae7e1
+D gnat.ads		20060118063318 6380ea48
+D g-debuti.ads		20060118063336 2cc5d110
+D g-io.ads		20060118063338 261181de
+D g-spitbo.ads		20060118063342 10b0ca8d
+D g-spitbo.adb		20060118063342 bd85e9ef
+D g-sptabo.ads		20060118063342 4a118576
+D g-sptabo.ads		20060118063342 4a118576
+D interfac.ads		20060118063318 6e859da6
+D system.ads		20060118063414 99654be1
+D s-exctab.ads		20060118063358 6637f07f
+D s-finimp.ads		20060118063400 ef65ab1e
+D s-finroo.ads		20060118063400 7e5e077b
+D s-htable.ads		20060118063400 af1a22d4
+D s-imgboo.ads		20060118063400 1c9f7112
+D s-parame.ads		20060118063404 8479efe6
+D s-secsta.ads		20060118063404 7804722c
+D s-soflin.ads		20060118063404 14059e84
+D s-stache.ads		20060118063404 6135f334
+D s-stalib.ads		20060118063404 e7ad2af0
+D s-stoele.ads		20060118063404 5a73170b
+D s-stoele.adb		20060118063354 792079f8
+D s-stratt.ads		20060118063404 c1077a4d
+D s-strops.ads		20060118063404 ef352bfb
+D s-sopco3.ads		20060118063404 fb5c3964
+D s-sopco4.ads		20060118063404 3cc42ca6
+D s-sopco5.ads		20060118063404 57309ce3
+D s-traent.ads		20060118063406 e81a0978
+D s-unstyp.ads		20060118063406 0d291e44
+D s-valint.ads		20060118063406 d7655cb7
+D unchconv.ads		20060118063318 1b7a14c5
+D unchdeal.ads		20060118063318 8ac9d15e
+X 13 gnat.ads
+36K9*GNAT 39e9 19|41r9 42r3
+X 16 g-spitbo.ads
+46K14*Spitbol 13|36k9 16|402e17 19|41r14 42r8
+249k12*Table 400e13 19|42r16
+X 19 g-sptabo.ads
+41K22*Table_Boolean 16|46k14 19|43r22
+

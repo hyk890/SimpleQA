@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-037-d569-068318">
+    <release tarname="gdb-python-7.5-1-mingw32-bin.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-002-a7c6-d7dbb5" />
+    </references>
+    <manifest>
+        <dir path="bin" />
+        <file path="bin/gdb-python27.exe" />
+        <file path="bin/gdbserver-python27.exe" />
+        <dir path="include" />
+        <dir path="include/gdb" />
+        <file path="include/gdb/jit-reader.h" />
+        <dir path="share/gdb" />
+        <dir path="share/gdb/python" />
+        <dir path="share/gdb/python/gdb" />
+        <dir path="share/gdb/python/gdb/command" />
+        <dir path="share/gdb/syscalls" />
+    </manifest>
+</package>

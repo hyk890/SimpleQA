@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-040-f78a-589de8">
+    <release tarname="libiconv-1.14-1-msys-1.0.17-dev.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <dir path="include" />
+        <file path="include/iconv.h" />
+        <file path="include/libcharset.h" />
+        <file path="include/localcharset.h" />
+        <dir path="lib" />
+        <file path="lib/libcharset.a" />
+        <file path="lib/libcharset.dll.a" />
+        <file path="lib/libcharset.la" />
+        <file path="lib/libiconv.a" />
+        <file path="lib/libiconv.dll.a" />
+        <file path="lib/libiconv.la" />
+    </manifest>
+</package>

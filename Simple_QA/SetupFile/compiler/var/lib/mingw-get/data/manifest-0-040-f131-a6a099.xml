@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-040-f131-a6a099">
+    <release tarname="msysCORE-1.0.19-1-msys-1.0.19-dbg.tar.xz" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-1.0-debug.dll" />
+        <file path="bin/msys-1.0.dll.dbg" />
+        <file path="bin/strace.exe" />
+    </manifest>
+</package>

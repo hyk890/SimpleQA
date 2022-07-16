@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<package id="manifest-0-050-46cd-5f1032">
+    <release tarname="libgettextpo-0.18.1.1-1-msys-1.0.17-dll-0.tar.lzma" />
+    <references>
+        <sysroot id="sysroot-0-011-664d-7cd9c6" />
+    </references>
+    <manifest>
+        <file path="bin/msys-gettextpo-0.dll" />
+        <file path="bin/msys-gettextlib-0-18-1.dll" />
+        <file path="bin/msys-gettextsrc-0-18-1.dll" />
+    </manifest>
+</package>
