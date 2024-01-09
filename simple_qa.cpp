@@ -120,11 +120,11 @@ int _tmain(int argc, TCHAR *argv[]) {
    bool *config=&tmp;
    
    while (*loop) {
-      printf("Please select the OS of the test device \n");
-      printf("1. Android \n");
-      printf("2. iOS \n");
-	  printf("3. ETC \n");
-      printf("4. exit \n");
+      printf("Please select the OS of the test device main\n");
+      printf("[1]. Android  \n");
+      printf("[2]. iOS \n");
+	  printf("[3]. ETC \n");
+      printf("[4]. exit \n");
       printf(">");
       scanf("%d", &n);
       switch (n) {
