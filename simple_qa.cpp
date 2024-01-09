@@ -120,10 +120,10 @@ int _tmain(int argc, TCHAR *argv[]) {
    bool *config=&tmp;
    
    while (*loop) {
-      printf("Please select the OS of the test device \n");
+      printf("Please select the OS of the test device update\n");
       printf("1. Android \n");
       printf("2. iOS \n");
-	  printf("3. ETC \n");
+	   printf("3. ETC \n");
       printf("4. exit \n");
       printf(">");
       scanf("%d", &n);
@@ -159,9 +159,9 @@ int _tmain(int argc, TCHAR *argv[]) {
     CloseHandle(write_out);
     CloseHandle(read_in);
     CloseHandle(read_out);
-	printf("exit...");
-	Sleep(1500);
-	SafeTerminateProcess(pi.hProcess, 0); 
+	 printf("exit...");
+	 Sleep(1500);
+	 SafeTerminateProcess(pi.hProcess, 0); 
 
     return 0;
 }
